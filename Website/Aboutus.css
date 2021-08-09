@@ -1,0 +1,117 @@
+body{
+	position: absolute;
+	background-color: #ccfff5;
+	left: 200px;
+	width: 1120px;
+}
+.header{
+	width: 1120px;
+	height: 127px;
+	align-content: center;
+	background-color: whitesmoke;
+	border: 1px black;
+	top: -10px;
+	position: absolute;
+}
+.logo{
+	position: absolute;
+	left: 50px;
+	top: 10px;
+}
+.topnav{
+	align-content: center;
+	overflow: hidden;
+	height: 150px;
+}
+.topnav a {
+	font-size: 15px;
+	float: right;
+	color: black;
+	text-align: center;
+	padding: 10px ;
+	margin: 30px;
+	text-decoration:none;
+	font-family: cursive;
+}
+.topnav a:hover{
+	color: greenyellow;
+}
+.footer{
+    width: 1120px;
+	height: 130px;
+	align-content: center;
+	top: 2010px;
+	background-color: whitesmoke;
+	border: 1px black;
+	position: absolute;
+	left: -2px;
+}
+.footerlogo{
+	position: absolute;
+	left: 995px;
+	top: 5px;
+}
+.link{
+	position: absolute;
+	left: 450px;
+	top:50px;
+}
+.Copyright{
+	position: absolute;
+	left: 350px;
+	top:70px;
+}
+.description{
+	position: absolute;
+	left: 25px;
+	top: 120px;
+	font-size: 25px;
+	font-family: 'Lobster', cursive;
+	color: goldenrod;
+}
+.vl {
+	position: absolute;
+	left: 215px;
+	top: 150px;
+	border-left: 4px solid black;
+  	height: 650px;
+}
+.paragraph{
+	position: absolute;
+	left: 230px;
+	top: 150px;
+	text-align: justify;
+	font-size: 27px;
+	font-family: 'Dosis', sans-serif;
+}
+.description1{
+	position: absolute;
+	left: 400px;
+	top: 850px;
+	font-size: 25px;
+	font-family: 'Lobster', cursive;
+	color: goldenrod;
+}
+.goal{
+	position: relative;
+	text-align: justify;
+	font-family: 'Dosis', sans-serif;
+	font-size: 29px;
+	left: 3px;
+	top: 995px;
+}
+.mail{
+
+	position: absolute;
+	top: -3px;
+	left: -447px;
+	font-size: 15px;
+	font-family: 'Dosis', sans-serif;
+}
+.coolwebsite{
+	position: absolute;
+	top: 1960px;
+	left: 400px;
+	font-size: 25px;
+	font-family: 'Dosis', sans-serif;	
+}

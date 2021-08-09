@@ -1,0 +1,234 @@
+body{
+	position: absolute;
+	background-color: #ccfff5;
+	left: 200px;
+	width: 1120px;
+}
+.header{
+	width: 1120px;
+	height: 127px;
+	align-content: center;
+	background-color: whitesmoke;
+	border: 1px black;
+	top: -10px;
+	position: absolute;
+}
+.logo{
+	position: absolute;
+	left: 50px;
+	top: 10px;
+}
+.topnav{
+	align-content: center;
+	overflow: hidden;
+	height: 150px;
+}
+.topnav a {
+	font-size: 15px;
+	float: right;
+	color: black;
+	text-align: center;
+	padding: 10px ;
+	margin: 30px;
+	text-decoration:none;
+	font-family: cursive;
+}
+.topnav a:hover{
+	color: greenyellow;
+}
+.footer{
+    width: 1120px;
+	height: 130px;
+	align-content: center;
+	top: 3010px;
+	background-color: whitesmoke;
+	border: 1px black;
+	position: absolute;
+	left: -2px;
+}
+.footerlogo{
+	position: absolute;
+	left: 995px;
+	top: 5px;
+}
+.link{
+	position: absolute;
+	left: 450px;
+	top:50px;
+}
+.Copyright{
+	position: absolute;
+	left: 350px;
+	top:70px;
+}
+.table{
+	position: absolute;
+	top: 130px;
+	left: 60px;
+	width: 800px;
+	font-family: 'Dosis', sans-serif;
+	background-color: Gainsboro;
+	width: 1000px;
+}
+.Insidetable{
+	left: 40px;
+	bottom: 20px;
+	position: relative;
+}
+.label{
+	position: absolute;
+	top: 540px;
+	left: 350px;
+	font-family: 'Dosis', sans-serif;
+	color: goldenrod;
+}
+.table1{	
+	width: 1120px;
+	height: 388px;
+	align-content: center;
+	top: 620px;
+	background-color: Gainsboro;
+	border: 1px black;
+	position: relative;
+	left: -2px;
+}
+.pokhara{
+	position: absolute;
+	font-family:Lucida Handwriting;
+	top: -18px;
+	left: 4px;
+}
+.pokharav{
+	position: absolute;
+	text-align: justify;
+	font-family: 'Dosis', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+	font-size: 26px;
+	left: 580px;
+	width: 520px;
+}
+.table2{	
+	width: 1120px;
+	height: 388px;
+	align-content: center;
+	top: 630px;
+	background-color: Gainsboro;
+	border: 1px black;
+	position: relative;
+	left: -2px;
+}
+.mardi{
+	position: absolute;
+	font-family:Lucida Handwriting;
+	top: -20px;
+	left: 555px;
+}
+.mardiv{
+	position: absolute;
+	text-align: justify;
+	font-family: 'Dosis', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+	font-size: 26px;
+	left: 5px;
+	width: 520px;
+}
+.table3{	
+	width: 1120px;
+	height: 388px;
+	align-content: center;
+	top: 640px;
+	background-color: Gainsboro;
+	border: 1px black;
+	position: relative;
+	left: -2px;
+}
+.abc{
+	position: absolute;
+	font-family:Lucida Handwriting;
+	top: -20px;
+	left: 4px;
+}
+.abcv{
+	position: absolute;
+	text-align: justify;
+	font-family: 'Dosis', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+	font-size: 26px;
+	left: 580px;
+	width: 520px;
+}
+.table4{	
+	width: 1120px;
+	height: 388px;
+	align-content: center;
+	top: 650px;
+	background-color: Gainsboro;
+	border: 1px black;
+	position: relative;
+	left: -2px;
+}
+.rara{
+	position: absolute;
+	font-family:Lucida Handwriting;
+	top: -19px;
+	left: 550px;
+}
+.rarav{
+	position: absolute;
+	text-align: justify;
+	font-family: 'Dosis', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+	font-size: 26px;
+	left: 5px;
+	width: 520px;
+}
+.table5{	
+	width: 1120px;
+	height: 388px;
+	align-content: center;
+	top: 660px;
+	background-color: Gainsboro;
+	border: 1px black;
+	position: relative;
+	left: -2px;
+}
+.chitwan{
+	position: absolute;
+	font-family:Lucida Handwriting;
+	top: -20px;
+}
+.chitwanv{
+	position: absolute;
+	text-align: justify;
+	font-family: 'Dosis', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+	font-size: 26px;
+	left: 580px;
+	width: 520px;
+}
+.table6{	
+	width: 1120px;
+	height: 388px;
+	align-content: center;
+	top: 670px;
+	background-color: Gainsboro;
+	border: 1px black;
+	position: relative;
+	left: -2px;
+}
+.lumbini{
+	position: absolute;
+	font-family:Lucida Handwriting;
+	top: -18px;
+	left: 555px;
+}
+.lumbiniv{
+	position: absolute;
+	text-align: justify;
+	font-family: 'Dosis', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+	font-size: 26px;
+	top: 10px;
+	left: 5px;
+	width: 520px;
+}
